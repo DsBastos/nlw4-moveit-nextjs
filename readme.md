@@ -34,7 +34,7 @@
 </p>
 
 <h1 align="center">
-    <img alt="dev.finance" title="move.it" src="public/Mockup.png" />
+    <img alt="move.it" title="move.it" src="public/Mockup.png" />
 </h1>
 
 ## 💻 About
